@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Nunito', sans-serif;
-    background-image: url(imgs/bc.jpg);
+    background-image: url(./bc.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
