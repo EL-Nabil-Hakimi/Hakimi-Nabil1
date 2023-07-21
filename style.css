@@ -8,6 +8,8 @@ body{
     display: flex;
     justify-content: space-between;
     flex-direction: column;
+    height: 100vh;
+
     font-family: 'Nunito', sans-serif;
     background-image:url(./bc.jpg);
     background-size: cover;
