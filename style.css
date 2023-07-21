@@ -5,6 +5,9 @@
 }
 
 body{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
     font-family: 'Nunito', sans-serif;
     background-image:url(./bc.jpg);
     background-size: cover;
